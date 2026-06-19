@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Achinta Mahadani</h1>
-<h3 align="center">A Passionate Computer Science and Data Enthusiast from India</h3>
+<h3 align="center">Data Analytics Enthusiast | Always Learning, Always Building </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=achimahadani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
